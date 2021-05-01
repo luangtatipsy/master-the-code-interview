@@ -22,3 +22,4 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 3. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 4. [Contains Duplicate](https://leetcode.com/problems/maximum-subarray/description/)
 5. [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+6. [Longest Word](https://coderbyte.com/information/Longest%20Word) __[Bonus]__
