@@ -23,3 +23,6 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 4. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) ☑️
 5. [Rotate Array](https://leetcode.com/problems/rotate-array/description/) ☑️
 6. [Longest Word](https://coderbyte.com/information/Longest%20Word) __[Bonus]__ ☑️
+
+### Interview Exercises: Stacks + Queues
+1. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ☑️
