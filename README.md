@@ -87,3 +87,6 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 49. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 ##### Other Resources: [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
+
+## License
+This repository is distributed under [MIT License](https://github.com/luangtatipsy/master-the-code-interview/blob/main/LICENSE)
