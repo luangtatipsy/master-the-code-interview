@@ -62,7 +62,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 24. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 25. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 26. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-27. [Power of Three](https://leetcode.com/problems/power-of-three/)
+27. [Power of Three](https://leetcode.com/problems/power-of-three/) ☑️
 28. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 29. [House Robber](https://leetcode.com/problems/house-robber/)
 30. [Plus One](https://leetcode.com/problems/plus-one/)
@@ -77,13 +77,13 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 39. [Min Stock](https://leetcode.com/problems/min-stack/)
 40. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 41. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-42. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+42. [Implement strStr()](https://leetcode.com/problems/implement-strstr/) ☑️
 43. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 44. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 45. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 46. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 47. [Count Primes](https://leetcode.com/problems/count-primes/)
-48. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+48. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) ☑️
 49. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 ##### Other Resources: [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
