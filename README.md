@@ -62,7 +62,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 24. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 25. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 26. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-27. [Power of Three](https://leetcode.com/problems/power-of-three/)
+27. [Power of Three](https://leetcode.com/problems/power-of-three/) ☑️
 28. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 29. [House Robber](https://leetcode.com/problems/house-robber/)
 30. [Plus One](https://leetcode.com/problems/plus-one/)
