@@ -54,7 +54,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 15. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 16. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ☑️
 17. [Missing Number](https://leetcode.com/problems/missing-number/) ☑️
-18. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+18. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) ☑️
 19. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 20. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ☑️
 21. [Happy Number](https://leetcode.com/problems/happy-number/) ☑️
