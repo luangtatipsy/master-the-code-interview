@@ -59,7 +59,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 20. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ☑️
 21. [Happy Number](https://leetcode.com/problems/happy-number/) ☑️
 22. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
-24. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+24. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ☑️
 25. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 26. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 27. [Power of Three](https://leetcode.com/problems/power-of-three/) ☑️
