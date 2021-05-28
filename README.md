@@ -65,7 +65,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 27. [Power of Three](https://leetcode.com/problems/power-of-three/) ☑️
 28. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 29. [House Robber](https://leetcode.com/problems/house-robber/)
-30. [Plus One](https://leetcode.com/problems/plus-one/)
+30. [Plus One](https://leetcode.com/problems/plus-one/) ☑️
 31. [Two Sum](https://leetcode.com/problems/two-sum/) ☑️
 32. [Count and Say](https://leetcode.com/problems/count-and-say/)
 33. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -73,7 +73,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 35. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 37. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-38. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+38. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ☑️
 39. [Min Stock](https://leetcode.com/problems/min-stack/)
 40. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 41. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
@@ -82,7 +82,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 44. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 45. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ☑️
 46. [Rotate Array](https://leetcode.com/problems/rotate-array/) ☑️
-47. [Count Primes](https://leetcode.com/problems/count-primes/)
+47. [Count Primes](https://leetcode.com/problems/count-primes/) ☑️
 48. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) ☑️
 49. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
