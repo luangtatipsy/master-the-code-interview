@@ -74,7 +74,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 37. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 38. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ☑️
-39. [Min Stock](https://leetcode.com/problems/min-stack/)
+39. [Min Stack](https://leetcode.com/problems/min-stack/) ☑️
 40. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 41. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 42. [Implement strStr()](https://leetcode.com/problems/implement-strstr/) ☑️
