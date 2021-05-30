@@ -70,7 +70,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 32. [Count and Say](https://leetcode.com/problems/count-and-say/)
 33. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 34. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) ☑️
-35. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+35. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ☑️
 36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 37. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 38. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ☑️
