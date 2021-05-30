@@ -58,7 +58,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 19. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 20. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ☑️
 21. [Happy Number](https://leetcode.com/problems/happy-number/) ☑️
-22. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
+22. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) ☑️
 24. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ☑️
 25. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) ☑️
 26. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
