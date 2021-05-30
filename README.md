@@ -51,7 +51,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 12. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ☑️
 13. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ☑️
 14. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ☑️
-15. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+15. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ☑️
 16. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ☑️
 17. [Missing Number](https://leetcode.com/problems/missing-number/) ☑️
 18. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) ☑️
