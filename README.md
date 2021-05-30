@@ -68,7 +68,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 30. [Plus One](https://leetcode.com/problems/plus-one/) ☑️
 31. [Two Sum](https://leetcode.com/problems/two-sum/) ☑️
 32. [Count and Say](https://leetcode.com/problems/count-and-say/)
-33. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+33. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ☑️
 34. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) ☑️
 35. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ☑️
 36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
