@@ -84,7 +84,7 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 46. [Rotate Array](https://leetcode.com/problems/rotate-array/) ☑️
 47. [Count Primes](https://leetcode.com/problems/count-primes/) ☑️
 48. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) ☑️
-49. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+49. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) ☑️
 
 ##### Other Resources: [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
