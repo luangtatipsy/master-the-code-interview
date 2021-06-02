@@ -71,8 +71,8 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 33. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ☑️
 34. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) ☑️
 35. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ☑️
-36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-37. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ☑️
+37. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) ☑️
 38. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ☑️
 39. [Min Stack](https://leetcode.com/problems/min-stack/) ☑️
 40. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ☑️
