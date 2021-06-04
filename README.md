@@ -51,40 +51,40 @@ https://www.udemy.com/course/master-the-coding-interview-data-structures-algorit
 12. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ☑️
 13. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ☑️
 14. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ☑️
-15. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+15. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ☑️
 16. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ☑️
 17. [Missing Number](https://leetcode.com/problems/missing-number/) ☑️
 18. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) ☑️
-19. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+19. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ☑️
 20. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ☑️
 21. [Happy Number](https://leetcode.com/problems/happy-number/) ☑️
-22. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
-24. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-25. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-26. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+22. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) ☑️
+24. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ☑️
+25. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) ☑️
+26. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) ☑️
 27. [Power of Three](https://leetcode.com/problems/power-of-three/) ☑️
-28. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-29. [House Robber](https://leetcode.com/problems/house-robber/)
-30. [Plus One](https://leetcode.com/problems/plus-one/)
+28. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) ☑️
+29. [House Robber](https://leetcode.com/problems/house-robber/) ☑️
+30. [Plus One](https://leetcode.com/problems/plus-one/) ☑️
 31. [Two Sum](https://leetcode.com/problems/two-sum/) ☑️
-32. [Count and Say](https://leetcode.com/problems/count-and-say/)
-33. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-34. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
-35. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-37. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-38. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-39. [Min Stock](https://leetcode.com/problems/min-stack/)
-40. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-41. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+32. [Count and Say](https://leetcode.com/problems/count-and-say/) ☑️
+33. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ☑️
+34. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) ☑️
+35. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ☑️
+36. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ☑️
+37. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) ☑️
+38. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ☑️
+39. [Min Stack](https://leetcode.com/problems/min-stack/) ☑️
+40. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ☑️
+41. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ☑️
 42. [Implement strStr()](https://leetcode.com/problems/implement-strstr/) ☑️
 43. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) ☑️
-44. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-45. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-46. [Rotate Array](https://leetcode.com/problems/rotate-array/)
-47. [Count Primes](https://leetcode.com/problems/count-primes/)
+44. [Reverse Bits](https://leetcode.com/problems/reverse-bits/) ☑️
+45. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ☑️
+46. [Rotate Array](https://leetcode.com/problems/rotate-array/) ☑️
+47. [Count Primes](https://leetcode.com/problems/count-primes/) ☑️
 48. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) ☑️
-49. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+49. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) ☑️
 
 ##### Other Resources: [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
